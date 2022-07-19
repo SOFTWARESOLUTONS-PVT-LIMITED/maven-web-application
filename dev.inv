@@ -1,2 +1,2 @@
-10.80.1.130 ansible_user=root --private-key=MYKEY.pem
-10.80.1.39  ansible_user=root  --private-key=MYKEY.pem
+[WEBSERVER]
+10.80.1.209
